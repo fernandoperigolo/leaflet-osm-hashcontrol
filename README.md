@@ -1,0 +1,1 @@
+This is a basic usage example of Leaftlet + Open Street Map + Plugin Hash Map
